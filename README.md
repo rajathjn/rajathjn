@@ -8,7 +8,7 @@ I love to code in general and enjoy building random stuff!!
 
 <picture>
   <a href="https://github.com/rajathjn">
-      <img alt="My Skills" src="https://skillicons.dev/icons?i=python,ansible,bash,docker,elasticsearch,git,github,grafana,jenkins,kubernetes,linux,obsidian,powershell,prometheus,ubuntu,cpp&theme=dark&perline=8" />
+      <img alt="My Skills" src="https://skillicons.dev/icons?i=python,golang,ansible,bash,docker,elasticsearch,git,github,githubactions,godot,grafana,jenkins,kubernetes,latex,linux,md,obsidian,powershell,prometheus,terraform,ubuntu,cpp&theme=dark&perline=8" />
   </a>
 </picture>
           
