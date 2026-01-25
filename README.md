@@ -6,17 +6,11 @@ I love to code in general and enjoy building random stuff!!
 
 ## 🛠️ Languages and Tools
 
-<<<<<<< HEAD
 <picture>
   <a href="https://github.com/rajathjn">
       <img alt="My Skills" src="https://skillicons.dev/icons?i=python,golang,ansible,bash,docker,elasticsearch,git,github,githubactions,godot,grafana,jenkins,kubernetes,latex,linux,md,obsidian,powershell,prometheus,terraform,ubuntu,cpp&theme=dark&perline=8" />
   </a>
 </picture>
-=======
-<a href="https://github.com/rajathjn">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,ansible,bash,docker,elasticsearch,git,github,grafana,jenkins,kubernetes,linux,obsidian,powershell,prometheus,ubuntu,cpp&theme=dark&perline=8" />
-</a>
->>>>>>> 7330e22ea12b47dc82224dbbd05338480a4ad7ea
           
 ## ✈️ Connect with me:
           
